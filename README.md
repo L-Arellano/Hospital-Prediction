@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis with Python
+# Hospital Readmission Predictions Using R
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
@@ -14,7 +14,7 @@
 <h3 align="center">Twitter Sentiment Analysis with Python</h3>
 
   <p align="center">
-    Analyze sentiments of tweets based on specified hashtags using Python.
+    Predicting hospital readmissions using R based on patient data and health indicators.
     <br />
     <a href="https://github.com/L-Arellano/Hospital-Prediction"><strong>Explore the docs »</strong></a>
     <br />
