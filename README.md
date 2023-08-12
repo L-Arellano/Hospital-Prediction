@@ -11,7 +11,7 @@
   <a href="https://github.com/L-Arellano/Hospital-Prediction">
   </a>
 
-<h3 align="center">Twitter Sentiment Analysis with Python</h3>
+<h3 align="center">Hospital Readmission Predictions Using R</h3>
 
   <p align="center">
     Predicting hospital readmissions using R based on patient data and health indicators.
